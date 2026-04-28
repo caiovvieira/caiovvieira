@@ -23,7 +23,8 @@ Sou Desenvolvedor Full Stack e apaixonado por tecnologia. Aqui, você pode conhe
 </div>  
 
 <h3>Tecnologias que utilizo para desenvolver:</h3>
-<div style="display: flex;">
+<div display="flex">
+ ![screenshot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
   <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon-javascript">
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="icon-typeScrip">
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="icon-react">
