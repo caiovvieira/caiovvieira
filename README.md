@@ -11,26 +11,29 @@ Sou Desenvolvedor Full Stack e apaixonado por tecnologia. Aqui, você pode conhe
 
 
 <div display="flex">
-  <a href="https://github.com/caiovvieira">
- <img alt="Caio Vieira Github Stats" width="370px" 
-  src="https://github-readme-stats.vercel.app/api?username=caiovvieira&show_icons=true&count_private=true&theme=onedarkt&hide_border=true&bg_color=0D1117"/></a>
-  
- <a href="https://github.com/caiovvieira">
- <img alt="Caio Vieira Github Stats"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovvieira&layout=compact&hide_border=true&bg_color=0D1117&https://github.com/anuraghazra/github-readme-stats"/></a>
+ <picture>
+  <source
+   srcset="https://github-readme-stats.vercel.app/api?username=caiovvieira&show_icons=true&theme=dark"
+   media="(prefers-color-scheme: dark)"/>
+  <source
+   srcset="https://github-readme-stats.vercel.app/api?username=caiovvieira&show_icons=true"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+ </picture>
 </div>  
 
-  <h3>Tecnologias que utilizo para desenvolver:</h3>
-   <div display= "flex">
-      <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html">
-      <img  align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css">
-      <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon-javascript">
-      <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="icon-typeScrip">
-      <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="icon-react">
-      <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="icon-angular">
-      <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="icon-java">       
-      <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="icon-spring">
-      <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon-Git">   
-      <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon-node.js">
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="icon-laravel">    
-   </div>
+<h3>Tecnologias que utilizo para desenvolver:</h3>
+<div display= "flex">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html">
+  <img  align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css">
+  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon-javascript">
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="icon-typeScrip">
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="icon-react">
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="icon-angular">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="icon-java">       
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="icon-spring">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon-Git">   
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon-node.js">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="icon-laravel">    
+</div>
   
