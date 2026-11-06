@@ -6,7 +6,7 @@
 Sou Desenvolvedor Full Stack e apaixonado por tecnologia. Aqui, você pode conhecer mais sobre meu portfólio e os projetos que desenvolvi. 🚀
 
 ## Entre em contato:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-vieira-1301/)](https://www.linkedin.com/in/caio-vinicius-vieira-1301/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vvieira/)](https://www.linkedin.com/in/caio-vvieira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:caio.vieira1910@gmail.com)
 
 
